@@ -5,6 +5,7 @@
 - 📫 How to reach me 
 - + Phone: 0981110557
 - + Email: phanvanchinhit@gmail.com
+- Các bạn muốn biết thêm chi tiết thì có thể truy cập vào profile cuuar mìn: https://phanvanchinhit.github.io/index.html
 > Chúc các bạn có một ngày vui vẻ
 <!---
 phanvanchinhit/phanvanchinhit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
